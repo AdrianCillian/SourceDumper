@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Win64Mem-SourceDumper/1.0.0": {
+        "runtime": {
+          "Win64Mem-SourceDumper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Win64Mem-SourceDumper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
